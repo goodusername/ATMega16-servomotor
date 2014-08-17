@@ -1,3 +1,4 @@
+; I release this code as public domain. Do with it what you will.
 ; Uses ATMEGA164P. Clock is set by external crystal to 20Mhz. You'll need to grab the include file two lines down from ATMEL.
 START:
 .INCLUDE "m164Pdef.inc"
